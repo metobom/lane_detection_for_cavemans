@@ -1,4 +1,4 @@
-# lane_detection_for_cavemans
+# lane_detection_for_cavemen
 This repo includes lane detection for suicidial self-driving car owners
 
 # some results
